@@ -1,3 +1,5 @@
+![logo](https://i.imgur.com/YoYw3OC.jpeg)
+
 # HizuruRansomware
 ***Penjelasan***
 > HizuruRansomware adalah Program CLI yang ditulis menggunakan Node.js, Program ini dapat dikategorikan Sebagai Wiper Malware karena Sifatnya yang Menghancurkan dan tidak dapat memulihkan Data Android Kembali. Diharapkan jangan pernah menjalankan Program ini secara Coba-Coba karena bersifat Fatal Jika kamu menjalankannya bukan di lingkungan VM
